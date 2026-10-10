@@ -1,7 +1,7 @@
 /**
  * Test Case: Complete customer registration, authentication, and shopping journey
  *
- * Tags: @master @sanity @regression @end-to-end @web
+ * Tags: @master @sanity @regression @e2e @web
  *
  * Steps:
  * 1) Open the application
@@ -27,7 +27,7 @@ import { RandomDataUtil } from '../../utils/dataGenerator';
 import { Helper } from '../../utils/helper';
 import { CustomerRegistrationData } from '../../pages/RegisterPage';
 
-test('End-to-End Shopping Flow @master @sanity @regression @end-to-end @web', async ({
+test('End-to-End Shopping Flow @master @sanity @regression @e2e @web', async ({
   accountPage,
   homePage,
   loginPage,
