@@ -1,0 +1,198 @@
+- generic [active] [ref=f4e1]:
+  - navigation [ref=f4e2]:
+    - generic [ref=f4e3]:
+      - button "$ Currency " [ref=f4e7] [cursor=pointer]:
+        - strong [ref=f4e8]: $
+        - text: Currency
+        - generic [ref=f4e9]: 
+      - list [ref=f4e11]:
+        - listitem [ref=f4e12]:
+          - link "" [ref=f4e13] [cursor=pointer]:
+            - /url: https://tutorialsninja.com/demo/index.php?route=information/contact
+          - text: "123456789"
+        - listitem [ref=f4e15]:
+          - link " My Account" [ref=f4e16] [cursor=pointer]:
+            - /url: https://tutorialsninja.com/demo/index.php?route=account/account
+            - generic [ref=f4e17]: 
+            - text: My Account
+        - listitem [ref=f4e19]:
+          - link " Wish List (0)" [ref=f4e20] [cursor=pointer]:
+            - /url: https://tutorialsninja.com/demo/index.php?route=account/wishlist
+            - generic [ref=f4e21]: 
+            - text: Wish List (0)
+        - listitem [ref=f4e22]:
+          - link " Shopping Cart" [ref=f4e23] [cursor=pointer]:
+            - /url: https://tutorialsninja.com/demo/index.php?route=checkout/cart
+            - generic [ref=f4e24]: 
+            - text: Shopping Cart
+        - listitem [ref=f4e25]:
+          - link " Checkout" [ref=f4e26] [cursor=pointer]:
+            - /url: https://tutorialsninja.com/demo/index.php?route=checkout/checkout
+            - generic [ref=f4e27]: 
+            - text: Checkout
+  - banner [ref=f4e28]:
+    - generic [ref=f4e30]:
+      - heading [level=1] [ref=f4e33]:
+        - link "Qafox.com" [ref=f4e34] [cursor=pointer]:
+          - /url: https://tutorialsninja.com/demo/index.php?route=common/home
+      - generic [ref=f4e36]:
+        - textbox "Search" [ref=f4e37]
+        - button "" [ref=f4e39] [cursor=pointer]
+      - button " 0 item(s) - $0.00" [ref=f4e43] [cursor=pointer]:
+        - generic [ref=f4e44]: 
+        - text: 0 item(s) - $0.00
+  - navigation [ref=f4e46]:
+    - generic: 
+    - list [ref=f4e48]:
+      - listitem [ref=f4e49]:
+        - link "Desktops" [ref=f4e50] [cursor=pointer]:
+          - /url: https://tutorialsninja.com/demo/index.php?route=product/category&path=20
+      - listitem [ref=f4e51]:
+        - link "Laptops & Notebooks" [ref=f4e52] [cursor=pointer]:
+          - /url: https://tutorialsninja.com/demo/index.php?route=product/category&path=18
+      - listitem [ref=f4e53]:
+        - link "Components" [ref=f4e54] [cursor=pointer]:
+          - /url: https://tutorialsninja.com/demo/index.php?route=product/category&path=25
+      - listitem [ref=f4e55]:
+        - link "Tablets" [ref=f4e56] [cursor=pointer]:
+          - /url: https://tutorialsninja.com/demo/index.php?route=product/category&path=57
+      - listitem [ref=f4e57]:
+        - link "Software" [ref=f4e58] [cursor=pointer]:
+          - /url: https://tutorialsninja.com/demo/index.php?route=product/category&path=17
+      - listitem [ref=f4e59]:
+        - link "Phones & PDAs" [ref=f4e60] [cursor=pointer]:
+          - /url: https://tutorialsninja.com/demo/index.php?route=product/category&path=24
+      - listitem [ref=f4e61]:
+        - link "Cameras" [ref=f4e62] [cursor=pointer]:
+          - /url: https://tutorialsninja.com/demo/index.php?route=product/category&path=33
+      - listitem [ref=f4e63]:
+        - link "MP3 Players" [ref=f4e64] [cursor=pointer]:
+          - /url: https://tutorialsninja.com/demo/index.php?route=product/category&path=34
+  - generic [ref=f4e65]:
+    - list [ref=f4e66]:
+      - listitem [ref=f4e67]:
+        - link "" [ref=f4e68] [cursor=pointer]:
+          - /url: https://tutorialsninja.com/demo/index.php?route=common/home
+      - listitem [ref=f4e70]:
+        - link "Account" [ref=f4e71] [cursor=pointer]:
+          - /url: https://tutorialsninja.com/demo/index.php?route=account/account
+      - listitem [ref=f4e72]:
+        - link "Login" [ref=f4e73] [cursor=pointer]:
+          - /url: https://tutorialsninja.com/demo/index.php?route=account/login
+    - generic [ref=f4e74]:
+      - generic [ref=f4e76]:
+        - generic [ref=f4e78]:
+          - heading "New Customer" [level=2] [ref=f4e79]
+          - paragraph [ref=f4e80]:
+            - strong [ref=f4e81]: Register Account
+          - paragraph [ref=f4e82]: By creating an account you will be able to shop faster, be up to date on an order's status, and keep track of the orders you have previously made.
+          - link "Continue" [ref=f4e83] [cursor=pointer]:
+            - /url: https://tutorialsninja.com/demo/index.php?route=account/register
+        - generic [ref=f4e85]:
+          - heading "Returning Customer" [level=2] [ref=f4e86]
+          - paragraph [ref=f4e87]:
+            - strong [ref=f4e88]: I am a returning customer
+          - generic [ref=f4e89]:
+            - generic [ref=f4e90]:
+              - generic [ref=f4e91]: E-Mail Address
+              - textbox "E-Mail Address" [ref=f4e92]
+            - generic [ref=f4e93]:
+              - generic [ref=f4e94]: Password
+              - textbox "Password" [ref=f4e95]
+              - link "Forgotten Password" [ref=f4e96] [cursor=pointer]:
+                - /url: https://tutorialsninja.com/demo/index.php?route=account/forgotten
+            - button "Login" [ref=f4e97] [cursor=pointer]
+      - complementary [ref=f4e98]:
+        - generic [ref=f4e99]:
+          - link "Login" [ref=f4e100] [cursor=pointer]:
+            - /url: https://tutorialsninja.com/demo/index.php?route=account/login
+          - link "Register" [ref=f4e101] [cursor=pointer]:
+            - /url: https://tutorialsninja.com/demo/index.php?route=account/register
+          - link "Forgotten Password" [ref=f4e102] [cursor=pointer]:
+            - /url: https://tutorialsninja.com/demo/index.php?route=account/forgotten
+          - link "My Account" [ref=f4e103] [cursor=pointer]:
+            - /url: https://tutorialsninja.com/demo/index.php?route=account/account
+          - link "Address Book" [ref=f4e104] [cursor=pointer]:
+            - /url: https://tutorialsninja.com/demo/index.php?route=account/address
+          - link "Wish List" [ref=f4e105] [cursor=pointer]:
+            - /url: https://tutorialsninja.com/demo/index.php?route=account/wishlist
+          - link "Order History" [ref=f4e106] [cursor=pointer]:
+            - /url: https://tutorialsninja.com/demo/index.php?route=account/order
+          - link "Downloads" [ref=f4e107] [cursor=pointer]:
+            - /url: https://tutorialsninja.com/demo/index.php?route=account/download
+          - link "Recurring payments" [ref=f4e108] [cursor=pointer]:
+            - /url: https://tutorialsninja.com/demo/index.php?route=account/recurring
+          - link "Reward Points" [ref=f4e109] [cursor=pointer]:
+            - /url: https://tutorialsninja.com/demo/index.php?route=account/reward
+          - link "Returns" [ref=f4e110] [cursor=pointer]:
+            - /url: https://tutorialsninja.com/demo/index.php?route=account/return
+          - link "Transactions" [ref=f4e111] [cursor=pointer]:
+            - /url: https://tutorialsninja.com/demo/index.php?route=account/transaction
+          - link "Newsletter" [ref=f4e112] [cursor=pointer]:
+            - /url: https://tutorialsninja.com/demo/index.php?route=account/newsletter
+  - contentinfo [ref=f4e113]:
+    - generic [ref=f4e114]:
+      - generic [ref=f4e115]:
+        - generic [ref=f4e116]:
+          - heading "Information" [level=5] [ref=f4e117]
+          - list [ref=f4e118]:
+            - listitem [ref=f4e119]:
+              - link "About Us" [ref=f4e120] [cursor=pointer]:
+                - /url: https://tutorialsninja.com/demo/index.php?route=information/information&information_id=4
+            - listitem [ref=f4e121]:
+              - link "Delivery Information" [ref=f4e122] [cursor=pointer]:
+                - /url: https://tutorialsninja.com/demo/index.php?route=information/information&information_id=6
+            - listitem [ref=f4e123]:
+              - link "Privacy Policy" [ref=f4e124] [cursor=pointer]:
+                - /url: https://tutorialsninja.com/demo/index.php?route=information/information&information_id=3
+            - listitem [ref=f4e125]:
+              - link "Terms & Conditions" [ref=f4e126] [cursor=pointer]:
+                - /url: https://tutorialsninja.com/demo/index.php?route=information/information&information_id=5
+        - generic [ref=f4e127]:
+          - heading "Customer Service" [level=5] [ref=f4e128]
+          - list [ref=f4e129]:
+            - listitem [ref=f4e130]:
+              - link "Contact Us" [ref=f4e131] [cursor=pointer]:
+                - /url: https://tutorialsninja.com/demo/index.php?route=information/contact
+            - listitem [ref=f4e132]:
+              - link "Returns" [ref=f4e133] [cursor=pointer]:
+                - /url: https://tutorialsninja.com/demo/index.php?route=account/return/add
+            - listitem [ref=f4e134]:
+              - link "Site Map" [ref=f4e135] [cursor=pointer]:
+                - /url: https://tutorialsninja.com/demo/index.php?route=information/sitemap
+        - generic [ref=f4e136]:
+          - heading "Extras" [level=5] [ref=f4e137]
+          - list [ref=f4e138]:
+            - listitem [ref=f4e139]:
+              - link "Brands" [ref=f4e140] [cursor=pointer]:
+                - /url: https://tutorialsninja.com/demo/index.php?route=product/manufacturer
+            - listitem [ref=f4e141]:
+              - link "Gift Certificates" [ref=f4e142] [cursor=pointer]:
+                - /url: https://tutorialsninja.com/demo/index.php?route=account/voucher
+            - listitem [ref=f4e143]:
+              - link "Affiliate" [ref=f4e144] [cursor=pointer]:
+                - /url: https://tutorialsninja.com/demo/index.php?route=affiliate/login
+            - listitem [ref=f4e145]:
+              - link "Specials" [ref=f4e146] [cursor=pointer]:
+                - /url: https://tutorialsninja.com/demo/index.php?route=product/special
+        - generic [ref=f4e147]:
+          - heading "My Account" [level=5] [ref=f4e148]
+          - list [ref=f4e149]:
+            - listitem [ref=f4e150]:
+              - link "My Account" [ref=f4e151] [cursor=pointer]:
+                - /url: https://tutorialsninja.com/demo/index.php?route=account/account
+            - listitem [ref=f4e152]:
+              - link "Order History" [ref=f4e153] [cursor=pointer]:
+                - /url: https://tutorialsninja.com/demo/index.php?route=account/order
+            - listitem [ref=f4e154]:
+              - link "Wish List" [ref=f4e155] [cursor=pointer]:
+                - /url: https://tutorialsninja.com/demo/index.php?route=account/wishlist
+            - listitem [ref=f4e156]:
+              - link "Newsletter" [ref=f4e157] [cursor=pointer]:
+                - /url: https://tutorialsninja.com/demo/index.php?route=account/newsletter
+      - separator [ref=f4e158]
+      - paragraph [ref=f4e159]:
+        - text: Powered By
+        - link "OpenCart" [ref=f4e160] [cursor=pointer]:
+          - /url: http://www.opencart.com
+        - text: Qafox.com © 2026

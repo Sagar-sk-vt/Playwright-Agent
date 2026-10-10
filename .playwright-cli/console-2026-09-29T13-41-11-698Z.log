@@ -1,0 +1,5 @@
+[  225608ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ https://tutorialsninja.com/demo/index.php?route=account/register:0
+[  225608ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ https://tutorialsninja.com/demo/index.php?route=account/register:0
+[ 1412144ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://tutorialsninja.com/demo/index.php?route=account/login:0
+[ 2339158ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-515eeaf54693130e:0
+[ 2606980ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-515eeaf54693130e:0

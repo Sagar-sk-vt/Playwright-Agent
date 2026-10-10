@@ -1,0 +1,7 @@
+Error opening product "MacBook": Error: locator.waitFor: Error: strict mode violation: getByRole('heading', { level: 1 }) resolved to 2 elements:
+    1) <h1>…</h1> aka getByRole('heading', { name: 'Qafox.com' })
+    2) <h1>MacBook</h1> aka getByRole('heading', { name: 'MacBook' })
+
+Call log:
+  - waiting for getByRole('heading', { level: 1 }) to be visible
+
